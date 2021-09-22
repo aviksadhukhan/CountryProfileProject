@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CountryProfileProject</string>
+    <string name="India_text">The Victoria Memorial Hall is one of the most magnificent monuments of not only the city of Calcutta but of our entire country. Representing the resplendent and majestic British architecture, Victoria Memorial Hall stands today, as a veritable icon of the city of Kolkata. Located on 1 Queen way, the VMH was envisaged by Lord Curzon, the Viceroy of British India, as a memorial to the deceased Queen Victoria. Hence, according to Curzon this memorial should take form of a great marble hall, which was to be erected on the Calcutta maidan to serve primarily as a monument to the Queen and secondarily as a national gallery and Valhalla of the Indian Empire.</string>
+    <string name="Pakistan_text">Muniba Mazari Baloch (Urdu: منیبہ مزاری; born 3 March 1987, also known as the Iron Lady of Pakistan) is a Pakistani activist, anchor artist, model, singer and motivational speaker. She became the National Ambassador for UN Women Pakistan after being shortlisted in the 100 Inspirational Women of 2015 by BBC.</string>
+
+   <string name="China_text">In 220 B.C., under Qin Shi Huang, sections of earlier fortifications were joined together to form a united defence system against invasions from the north. Construction continued up to the Ming dynasty (1368–1644), when the Great Wall became the world largest military structure. Its historic and strategic importance is matched only by its architectural significance.</string>
+   <string name="massage_text">Do you want to exit</string>
+</resources>
